@@ -70,7 +70,7 @@ http://localhost:8501
 
 ![Fire Detected](assets/fire.png)
 
-### ---
+ ---
 
 ### ✅ No Fire Detected
 ![No Fire Detected](assets/nofire.png)
