@@ -6,7 +6,7 @@ This is a deep learning-powered web application that detects signs of wildfire i
 
 ## 🔧 Tech Stack
 
-- Python 🐍
+- Python 
 - TensorFlow / Keras
 - Streamlit
 - PIL (Python Imaging Library)
