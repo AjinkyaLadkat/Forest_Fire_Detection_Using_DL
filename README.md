@@ -36,25 +36,32 @@ pip install streamlit tensorflow pillow numpy
 ```bash
 Drive link for Keras model - https://drive.google.com/drive/folders/1RPv3a1DYLTEwIJ08DuBr_z3yznls6oFC?usp=drive_link
 ```
+
+
 or,(*Optional*) create the model and train it using the Jupyter notebook file and Google Colab(use v2 file)
 ```bash
 Drive link for Jupyter Notebook File - https://drive.google.com/drive/folders/1GEEjrKLzNdZH2aW9zh3Ik8BeK1njUFt0?usp=drive_link
 ```
+
+
 (*Optional*) **Save the trained model**
 ```bash
 model.save("FFDv2.keras")
 ```
+
 
 ### 4. **Run the app**
 ```bash
 streamlit run app.py
 ```
 
+
 ### 5. **View the running app**
 Follow this link from terminal
 ```bash
 http://localhost:8501
 ```
+
 
 ## 🔧 How It Works?
 
