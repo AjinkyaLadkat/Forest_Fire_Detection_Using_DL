@@ -67,8 +67,10 @@ http://localhost:8501
 
 ## 📸 Sample Output
 
-### 🔥 Fire Detected
+
 ![Fire Detected](assets/fire.png)
+
+### ---
 
 ### ✅ No Fire Detected
 ![No Fire Detected](assets/nofire.png)
