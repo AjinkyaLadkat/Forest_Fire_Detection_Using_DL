@@ -79,7 +79,7 @@ http://localhost:8501
 
 ## 📞 Contact
 📧 Email: [ladkatajinkya18@gmail.com]  
-🔗 LinkedIn: [Ajinkya Ladkat](https//:www.linkedin.com/in/ajinkya-ladkat-b14a39273)
+🔗 LinkedIn: [Ajinkya Ladkat](https://www.linkedin.com/in/ajinkya-ladkat-b14a39273/)
 
 
 ## 📝 License
