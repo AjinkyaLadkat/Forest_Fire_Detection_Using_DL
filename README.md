@@ -78,8 +78,9 @@ http://localhost:8501
 - Built for educational and demonstration purposes.
 
 ## 📞 Contact
-You can reach me at [ladkatajinkya18@gmail.com](mailto:ladkatajinkya18@gmail.com) for any questions or feedback.
-Connect with [🔗 LinkedIn](www.linkedin.com/in/ajinkya-ladkat-b14a39273)
+📧 Email: [ladkatajinkya18@gmail.com]  
+🔗 LinkedIn: [Ajinkya Ladkat](www.linkedin.com/in/ajinkya-ladkat-b14a39273)
+
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
